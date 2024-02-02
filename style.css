@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html,body{
+    background-color:black;
+    color: white
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight:lighter;
+}
+#nav1{
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+#nav2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    height: 30px;
+    padding: 0 40px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+#main2{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   text-transform: uppercase;
+}
+#magic{
+    text-transform: uppercase;
+    text-align: center;
+}
+#img1{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img2{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img3{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img4{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img5{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#img6{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
